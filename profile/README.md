@@ -53,4 +53,4 @@ Visit our official website: [https://nvkf.nl](https://nvkf.nl)
 
 <!-- Add a friendly closing -->  
 Cheers,  
-The NVKF Team 🌟
+The NVKF-Kennisplatform AI Team 🌟
