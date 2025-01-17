@@ -30,8 +30,8 @@ Check out our [contribution guidelines](https://nvkf.nl/contribute) to learn mor
 
 ### **Useful Resources**  
 - **[Kennisplatform AI](https://nvkf.nl/kennisplatform-ai)**: Explore our AI knowledge platform for resources, courses, and events.  
-- **[Documentation](https://nvkf.nl/docs)**: Access guides, manuals, and best practices for clinical physicists.  
-- **[Events Calendar](https://nvkf.nl/events)**: Stay updated on upcoming events and courses.  
+- **[News](https://nvkf.nl/nieuws)**: Access guides, manuals, and best practices for clinical physicists.  
+- **[Events Calendar](https://nvkf.nl/agenda)**: Stay updated on upcoming events and courses.  
 
 ---
 
