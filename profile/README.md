@@ -1,6 +1,6 @@
 ## Hi there 👋  
 
-Welcome to the **Dutch Society for Clinical Physics (NVKF)**!  
+Welcome to the Kennisplatform AI of the **Dutch Society for Clinical Physics (NVKF)**!  
 
 <!--
 
